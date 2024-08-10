@@ -1,4 +1,4 @@
-#Basic Banking System
+# Basic Banking System
 <p>
 This repository contains Sparks Foundation Internship Project : BankXpress A Webpage used to transfer money between multiple users.
 
