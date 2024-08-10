@@ -2,7 +2,7 @@
     $servername = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = "sparksBank";
+	$dbname = "task1";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
