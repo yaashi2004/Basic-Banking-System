@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>BankXpress</title>
+   <title>Infinity Bank</title>
    <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -20,7 +20,7 @@
 <!-- Navigation bar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">BankXpress  </a>
+    <a class="navbar-brand" href="#">Infinity Bank  </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -98,8 +98,8 @@
 <div class="container-fluid">
  <div class ="row">
 
-      <h3 style="text-align:center;">BankXpress</h3>
-      <p1> BankXpress is a cutting-edge transaction website that revolutionizes the way you manage your finances. With its user-friendly interface and robust security features, BankXpress makes online banking a breeze. Whether you're checking your account balances, transferring funds, or paying bills, BankXpress offers a seamless and efficient experience, ensuring your financial transactions are swift and secure. Say goodbye to long queues and hello to the convenience of BankXpress, where your financial needs are just a click away.</p1>
+      <h3 style="text-align:center;">Infinity Bank</h3>
+      <p1> Infinity Bank is a cutting-edge transaction website that revolutionizes the way you manage your finances. With its user-friendly interface and robust security features, InfinityBank makes online banking a breeze. Whether you're checking your account balances, transferring funds, or paying bills, InfinityBank offers a seamless and efficient experience, ensuring your financial transactions are swift and secure. Say goodbye to long queues and hello to the convenience of InfinityBank, where your financial needs are just a click away.</p1>
 
  </div>
  </div>
@@ -117,7 +117,7 @@ This website has been developed as part of an internship program. It may contain
 
 
 <footer class="text-center mt-2 py-5">
-        <p>&copy 2023  <b>ABC XYZ</b> </br>Chairman, Xpress Foundation</p>
+        <p>&copy 2024  <b>ABC XYZ</b> </br>Chairman, Infinity Foundation</p>
       </footer>
 
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
