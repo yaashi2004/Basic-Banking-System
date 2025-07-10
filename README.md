@@ -1,6 +1,6 @@
 # Basic Banking System
 <p>
-This repository contains Sparks Foundation Internship Project :  A Website used to transfer money between multiple users.
+This repository contains my First Project :  A Website used to transfer money between multiple users.
 
 Tech Stack used - Front-end : HTML, CSS, Bootstrap & Javascript Back-end : PHP Database : MySQL
 
